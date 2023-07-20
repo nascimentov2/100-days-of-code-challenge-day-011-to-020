@@ -1,0 +1,20 @@
+{
+    "name": "100daysofcodechallenge/day018",
+    "description": "100 days of code challenge [day 018] - Product of numbers",
+    "type": "project",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edson Nascimento",
+            "email": "enascimentosousa@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
+}
